@@ -1,0 +1,6 @@
+public double ctof(double c) throws RemoteException {
+double celtofah = (c*(9/5)+32);
+ return celtofah; }
+}
+
+
